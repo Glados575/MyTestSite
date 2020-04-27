@@ -40,7 +40,7 @@ p {
   font-weight: bold;
   font-size: 50px;
   margin: 0 auto;
-  color: green;
+  color: blue;
 }
 p:first-child {
   align-self: flex-end;
